@@ -171,8 +171,8 @@ Here are some ideas to get you started:
     <img src="https://res.cloudinary.com/jsxclan/image/upload/c_scale,w_50/v1623338914/GitHub/Emojis/Person_Mattew_Skin_Tone_White_Posture_1_Happy_vozqj9.png" alt="JSX Clan" />
   </p>
   
-  [![Sponsor](https://res.cloudinary.com/jsxclan/image/upload/v1623339974/GitHub/Buttons/Sponsor_tsbvry.png)](https://paypal.me/qotywrity)
-  [![Buy me a coffee](https://res.cloudinary.com/jsxclan/image/upload/v1623339974/GitHub/Buttons/Buy_me_a_Coffee_gpwalx.png)](https://paypal.me/qotywrity)
+  [![Sponsor](https://res.cloudinary.com/jsxclan/image/upload/v1623339974/GitHub/Buttons/Sponsor_tsbvry.png)](https://patreon.com/jsxclan)
+  [![Buy me a coffee](https://res.cloudinary.com/jsxclan/image/upload/v1623339974/GitHub/Buttons/Buy_me_a_Coffee_gpwalx.png)](https://ko-fi.com/jsxclan)
   
   Thanks in advance ![JSX Clan](https://res.cloudinary.com/jsxclan/image/upload/c_scale,w_40/v1623338916/GitHub/Emojis/Person_Mattew_Skin_Tone_White_Posture_20_Like_ydm3ya.png)
 </p>
