@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+- 🔭 I’m currently working on **[Musicont](https://github.com/jsxclan/musicont), [Guardmi](https://github.com/jsxclan/guardmi)**
+
 - 💬 Ask me about **JavaScript, React, React Native, Expo, GraphQL, Node.js, Express.js, Capacitor.js, Ionic, Tailwind**
 
 - 📫 How to reach me: **qotywrity@gmail.com**
