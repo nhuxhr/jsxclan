@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github.com/jsxclan">
-    <img src="https://github-profile-trophy.vercel.app/?username=jsxclan" alt="jsxclan" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jsxclan&column=6&margin-w=7&margin-h=7" alt="jsxclan" />
   </a>
 </p>
 
