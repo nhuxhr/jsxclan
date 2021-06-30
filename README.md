@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[Musicont](https://github.com/jsxclan/musicont), [Guardmi](https://github.com/jsxclan/guardmi)**
 
+- 🌱 I’m currently learning **[Solidity](https://soliditylang.org)**, **[Next.js](https://nextjs.org)**
+
 - 💬 Ask me about **JavaScript, React, React Native, Expo, GraphQL, Node.js, Express.js, Capacitor.js, Ionic, Tailwind**
 
 - 📫 How to reach me: **jsxclan.dev@gmail.com**
