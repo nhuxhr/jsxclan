@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jsxclan&label=Profile%20views&color=0e75b6&style=flat" alt="jsxclan" />
+  <img src="https://komarev.com/ghpvc/?username=jsxclan&label=Profile%20views&color=0e75b6&style=plastic" alt="jsxclan" />
 </p>
 
 <p align="left">
