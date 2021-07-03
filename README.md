@@ -36,6 +36,11 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **Talk is cheap. Show me the code.**
 
+### Three.js journey
+Do you wish to learn Three.js, and create amazing 3d websites more like [Bruno Simon](https://bruno-simon.com) portfolio website.
+![Bruno Simon Portfolio](https://res.cloudinary.com/jsxclan/image/upload/v1625326168/GitHub/Bruno%20Simon/portfolio.jpg)
+If you do love to learn Three.js, kindly [start here](https://threejs-journey.xyz)
+
 <h3 align="left">Programming Langauges & Tools:</h3>
 <p align="left">
   <!-- Programming Langauges -->
