@@ -43,7 +43,7 @@ Do you wish to learn Three.js, and create amazing 3d websites more like [Bruno S
 
 If you do love to learn Three.js, kindly [start here](https://threejs-journey.xyz)
 
-<h3 align="left">Programming Langauges & Tools:</h3>
+<h3 align="left">Programming Languages & Tools:</h3>
 <p align="left">
   <!-- Programming Langauges -->
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
