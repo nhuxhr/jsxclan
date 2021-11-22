@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[Musicont](https://github.com/jsxclan/musicont), [Guardmi](https://github.com/jsxclan/guardmi)**
 
-- 🌱 I’m currently learning **[Three.js](https://threejs.org)**, **[GSAP](https://greensock.com)**, **[Solidity](https://soliditylang.org)**, **[Next.js](https://nextjs.org)**
+- 🌱 I’m currently learning **[Three.js](https://threejs.org)**, **[GSAP](https://greensock.com)**
 
 - 💬 Ask me about **JavaScript, React, React Native, Expo, GraphQL, Node.js, Express.js, Capacitor.js, Ionic, Tailwind**
 
@@ -91,6 +91,9 @@ If you do love to learn Three.js, kindly [start here](https://threejs-journey.xy
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303882/GitHub/Programming%20Langauges/Card-14_ivnuar.png" alt="MySQL" width="50" height="50"/>
   </a>
+  <a href="https://soliditylang.org/" target="_blank">
+    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1637545892/GitHub/Programming%20Langauges/Card-15_hmbt1l.png" alt="Solidity" width="50" height="50"/>
+  </a>
   
   <!-- Frameworks and Libraries -->
   <a href="https://reactjs.org/" target="_blank">
@@ -116,6 +119,9 @@ If you do love to learn Three.js, kindly [start here](https://threejs-journey.xy
   </a>
   <a href="https://ionicframework.com/" target="_blank">
     <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card-7_v3sd5r.png" alt="Ionic" width="50" height="50"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1637545922/GitHub/Frameworks%20and%20Libraries/Card-8_fuy2re.png" alt="Next.js" width="50" height="50"/>
   </a>
   
   <!-- Service -->
