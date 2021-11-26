@@ -37,13 +37,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **Talk is cheap. Show me the code.**
 
 ### Three.js journey
+
 Do you wish to learn Three.js, and create amazing 3d websites more like [Bruno Simon](https://bruno-simon.com) portfolio website.
 
 ![Bruno Simon Portfolio](https://res.cloudinary.com/jsxclan/image/upload/v1625326168/GitHub/Bruno%20Simon/portfolio.jpg)
 
 If you do love to learn Three.js, kindly [start here](https://threejs-journey.xyz)
 
-<h3 align="left">Programming Languages & Tools:</h3>
+### Programming Languages & Tools
+
 <p align="left">
   <!-- Programming Langauges -->
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
@@ -180,7 +182,8 @@ If you do love to learn Three.js, kindly [start here](https://threejs-journey.xy
   </a>
 </p>
 
-<h3 align="left">Sponsor, or Buy me a coffee:</h3>
+### Sponsor, or Buy me a coffee
+
 <p align="left">
   By buying me a coffee ☕, or sponsoring me ♥️, you can help me write bug fixes, documentation, improve existing features and add new ones. Who knows what I'll come up with next?
   
@@ -194,7 +197,8 @@ If you do love to learn Three.js, kindly [start here](https://threejs-journey.xy
   Thanks in advance ![JSX Clan](https://res.cloudinary.com/jsxclan/image/upload/c_scale,w_40/v1623338916/GitHub/Emojis/Person_Mattew_Skin_Tone_White_Posture_20_Like_ydm3ya.png)
 </p>
 
-### Social media:
+### Social media
+
 [![Dribbble](https://res.cloudinary.com/jsxclan/image/upload/v1623340389/GitHub/Socail%20media/Dribbble_fnjrid.png)](https://dribbble.com/jsxclan)
 [![Twitter](https://res.cloudinary.com/jsxclan/image/upload/v1623340389/GitHub/Socail%20media/Twitter_zkhh6z.png)](https://twitter.com/jsx_clan)
 [![Instagram](https://res.cloudinary.com/jsxclan/image/upload/v1623340389/GitHub/Socail%20media/Instagram_zjqkko.png)](https://instagram.com/jsx.clan)
