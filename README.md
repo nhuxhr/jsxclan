@@ -13,6 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+```txt
+     @@@   @@@@@@   @@@  @@@      @@@@@@@  @@@        @@@@@@   @@@  @@@  
+     @@@  @@@@@@@   @@@  @@@     @@@@@@@@  @@@       @@@@@@@@  @@@@ @@@  
+     @@!  !@@       @@!  !@@     !@@       @@!       @@!  @@@  @@!@!@@@  
+     !@!  !@!       !@!  @!!     !@!       !@!       !@!  @!@  !@!!@!@!  
+     !!@  !!@@!!     !@@!@!      !@!       @!!       @!@!@!@!  @!@ !!@!  
+     !!!   !!@!!!     @!!!       !!!       !!!       !!!@!!!!  !@!  !!!  
+     !!:       !:!   !: :!!      :!!       !!:       !!:  !!!  !!:  !!!  
+!!:  :!:      !:!   :!:  !:!     :!:        :!:      :!:  !:!  :!:  !:!  
+::: : ::  :::: ::    ::  :::      ::: :::   :: ::::  ::   :::   ::   ::  
+ : :::    :: : :     :   ::       :: :: :  : :: : :   :   : :  ::    :   
+```
+
 <h1 align="center">Hi <img src="https://res.cloudinary.com/jsxclan/image/upload/c_scale,w_35/v1623338916/GitHub/Emojis/Person_Mattew_Skin_Tone_White_Posture_23_Hugging_mgzsku.png" alt="JSX Clan" />, I'm JSX Clan</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
