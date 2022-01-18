@@ -205,7 +205,7 @@ If you do love to learn Three.js, kindly [start here](https://threejs-journey.xy
   </p>
   
   [![Sponsor](https://res.cloudinary.com/jsxclan/image/upload/v1623339974/GitHub/Buttons/Sponsor_tsbvry.png)](https://patreon.com/jsxclan)
-  [![Buy me a coffee](https://res.cloudinary.com/jsxclan/image/upload/v1623339974/GitHub/Buttons/Buy_me_a_Coffee_gpwalx.png)](https://ko-fi.com/jsxclan)
+  [![Buy me a coffee](https://res.cloudinary.com/jsxclan/image/upload/v1623339974/GitHub/Buttons/Buy_me_a_Coffee_gpwalx.png)](https://www.buymeacoffee.com/jsxclan)
   
   Thanks in advance ![JSX Clan](https://res.cloudinary.com/jsxclan/image/upload/c_scale,w_40/v1623338916/GitHub/Emojis/Person_Mattew_Skin_Tone_White_Posture_20_Like_ydm3ya.png)
 </p>
