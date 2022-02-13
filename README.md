@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **[Three.js](https://threejs.org)**, **[GSAP](https://greensock.com)**
 
-- 💬 Ask me about **JavaScript, React, React Native, Expo, GraphQL, Node.js, Express.js, Capacitor.js, Ionic, Tailwind**
+- 💬 Ask me about **JavaScript, Web3, Solidity, React, React Native, Expo, GraphQL, Node.js, Express.js, Capacitor.js, Ionic, Tailwind**
 
 - 📫 How to reach me: **[jsxclan.dev@gmail.com](mailto:jsxclan.dev@gmail.com)**, **[Twitter](https://twitter.com/jsx_clan)**, **[Instagram](https://instagram.com/jsx.clan)**, **[Telegram](https://t.me/jsxclan)**
 
