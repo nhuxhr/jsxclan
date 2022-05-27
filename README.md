@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**Note:** if you wanna contact me directly, please use [Telegram](https://t.me/jsxclan) to avoid late response, thank you.
+
 ```txt
      @@@   @@@@@@   @@@  @@@      @@@@@@@  @@@        @@@@@@   @@@  @@@  
      @@@  @@@@@@@   @@@  @@@     @@@@@@@@  @@@       @@@@@@@@  @@@@ @@@  
