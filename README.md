@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[Musicont](https://github.com/jsxclan/musicont), [Guardmi](https://github.com/jsxclan/guardmi)**
 
-- 🌱 I’m currently learning **[Three.js](https://threejs.org)**, **[GSAP](https://greensock.com)**
+- 🌱 I’m currently learning **[Bun.js](https://bun.sh)**, **[Three.js](https://threejs.org)**, **[GSAP](https://greensock.com)**
 
 - 💬 Ask me about **JavaScript, Web3, Solidity, React, React Native, Expo, GraphQL, Node.js, Express.js, Capacitor.js, Ionic, Tailwind**
 
