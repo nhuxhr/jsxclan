@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 > ## Hi ![JSX Clan](https://res.cloudinary.com/jsxclan/image/upload/c_scale,w_35/v1623338916/GitHub/Emojis/Person_Mattew_Skin_Tone_White_Posture_23_Hugging_mgzsku.png), I'm JSX Clan
 >
-> ### A passionate full-stack developer
+> ### A passionate Full Stack JavaScript Developer
 
 ![jsxclan](https://komarev.com/ghpvc/?username=jsxclan&label=Profile%20views&color=0e75b6&style=plastic)
 
