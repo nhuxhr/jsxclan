@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **[Musicont](https://github.com/jsxclan/musicont), [Guardmi](https://github.com/jsxclan/guardmi)**
 
-- 🌱 I’m currently learning **[Bun.js](https://bun.sh)**, **[Alpine.js](https://alpinejs.dev)**, **[Three.js](https://threejs.org)**, **[GSAP](https://greensock.com)**
+- 🌱 I’m currently learning **[Bun.js](https://bun.sh)**, **[Three.js](https://threejs.org)**, **[GSAP](https://greensock.com)**
 
 - 💬 Ask me about **JavaScript, Web3, Solidity, React, React Native, Expo, GraphQL, Node.js, Express.js, Capacitor.js, Ionic, Tailwind**
 
@@ -61,95 +61,98 @@ If you do love to learn Three.js, kindly [start here](https://threejs-journey.xy
 <p align="left">
   <!-- Programming Langauges -->
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Programming%20Langauges/Card_isucc0.png" alt="HTML5" width="50" height="50"/>
+    <img src="icons/programming-langauges/html.png" alt="HTML5" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303881/GitHub/Programming%20Langauges/Card-1_ogdsdi.png" alt="CSS3" width="50" height="50"/>
+    <img src="icons/programming-langauges/css.png" alt="CSS3" width="50" height="50"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303883/GitHub/Programming%20Langauges/Card-3_fkqfdx.png" alt="Tailwind" width="50" height="50"/>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="icons/programming-langauges/tailwind-css.png" alt="Tailwind" width="50" height="50"/>
   </a>
-  <a href="https://sass-lang.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303883/GitHub/Programming%20Langauges/Card-4_s4cvsp.png" alt="Sass" width="50" height="50"/>
+  <a href="https://sass-lang.com" target="_blank">
+    <img src="icons/programming-langauges/sass.png" alt="Sass" width="50" height="50"/>
   </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303883/GitHub/Programming%20Langauges/Card-6_dc2csy.png" alt="JavaScript" width="50" height="50"/>
+  <a href="https://www.javascript.com" target="_blank">
+    <img src="icons/programming-langauges/javascript.png" alt="JavaScript" width="50" height="50"/>
   </a>
-  <a href="https://es6.io/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Programming%20Langauges/Card-9_pgbcl5.png" alt="Es6" width="50" height="50"/>
+  <a href="https://es6.io" target="_blank">
+    <img src="icons/programming-langauges/es6.png" alt="Es6" width="50" height="50"/>
   </a>
-  <a href="https://www.json.org/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303881/GitHub/Programming%20Langauges/Card-10_bywi9g.png" alt="Json" width="50" height="50"/>
+  <a href="https://www.json.org" target="_blank">
+    <img src="icons/programming-langauges/json.png" alt="Json" width="50" height="50"/>
   </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303882/GitHub/Programming%20Langauges/Card-11_y3qpiy.png" alt="Babel" width="50" height="50"/>
+  <a href="https://babeljs.io" target="_blank">
+    <img src="icons/programming-langauges/babel.png" alt="Babel" width="50" height="50"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303882/GitHub/Programming%20Langauges/Card-12_hg5z2u.png" alt="TypeScript" width="50" height="50"/>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img src="icons/programming-langauges/typescript.png" alt="TypeScript" width="50" height="50"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303882/GitHub/Programming%20Langauges/Card-14_ivnuar.png" alt="MySQL" width="50" height="50"/>
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="icons/programming-langauges/mysql.png" alt="MySQL" width="50" height="50"/>
   </a>
-  <a href="https://soliditylang.org/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1637545892/GitHub/Programming%20Langauges/Card-15_hmbt1l.png" alt="Solidity" width="50" height="50"/>
+  <a href="https://soliditylang.org" target="_blank">
+    <img src="icons/programming-langauges/solidity.png" alt="Solidity" width="50" height="50"/>
   </a>
   
   <!-- Frameworks and Libraries -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card_qjuyi2.png" alt="React" width="50" height="50"/>
+  <a href="https://reactjs.org" target="_blank">
+    <img src="icons/frameworks-and-libraries/react-js.png" alt="React" width="50" height="50"/>
   </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card-2_btelag.png" alt="Redux" width="50" height="50"/>
+  <a href="https://redux.js.org" target="_blank">
+    <img src="icons/frameworks-and-libraries/redux.png" alt="Redux" width="50" height="50"/>
   </a>
-  <a href="https://expo.io/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card-3_yggfry.png" alt="Expo" width="50" height="50"/>
+  <a href="https://expo.dev" target="_blank">
+    <img src="icons/frameworks-and-libraries/expo.png" alt="Expo" width="50" height="50"/>
   </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card-4_ruiw8v.png" alt="Node.js" width="50" height="50"/>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="icons/frameworks-and-libraries/node-js.png" alt="Node.js" width="50" height="50"/>
   </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card-5_e5x9zz.png" alt="Express.js" width="50" height="50"/>
+  <a href="https://expressjs.com" target="_blank">
+    <img src="icons/frameworks-and-libraries/express-js.png" alt="Express.js" width="50" height="50"/>
   </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card-6_izdsz1.png" alt="GraphQL" width="50" height="50"/>
+  <a href="https://graphql.org" target="_blank">
+    <img src="icons/frameworks-and-libraries/graphql.png" alt="GraphQL" width="50" height="50"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1637545922/GitHub/Frameworks%20and%20Libraries/Card-8_fuy2re.png" alt="Next.js" width="50" height="50"/>
+  <a href="https://nextjs.org" target="_blank">
+    <img src="icons/frameworks-and-libraries/next-js.png" alt="Next.js" width="50" height="50"/>
+  </a>
+  <a href="https://alpinejs.dev" target="_blank">
+    <img src="icons/frameworks-and-libraries/alpine-js.png" alt="Alpine.js" width="50" height="50"/>
   </a>
   
   <!-- Service -->
-  <a href="https://github.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Service/Card_vv2ale.png" alt="Github" width="50" height="50"/>
+  <a href="https://github.com" target="_blank">
+    <img src="icons/services/github.png" alt="Github" width="50" height="50"/>
   </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Service/Card-2_dwhitj.png" alt="Postman" width="50" height="50"/>
+  <a href="https://www.postman.com" target="_blank">
+    <img src="icons/services/postman.png" alt="Postman" width="50" height="50"/>
   </a>
-  <a href="https://www.heroku.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Service/Card-4_bptobf.png" alt="Heroku" width="50" height="50"/>
+  <a href="https://www.heroku.com" target="_blank">
+    <img src="icons/services/heroku.png" alt="Heroku" width="50" height="50"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Service/Card-5_kvtjsq.png" alt="MongoDB" width="50" height="50"/>
+  <a href="https://www.mongodb.com" target="_blank">
+    <img src="icons/services/mongodb.png" alt="MongoDB" width="50" height="50"/>
   </a>
   
   <!-- Design Tools -->
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303880/GitHub/Design%20Tools/Card_hkpr4g.png" alt="Figma" width="50" height="50"/>
+  <a href="https://www.figma.com" target="_blank">
+    <img src="icons/design-tools/figma.png" alt="Figma" width="50" height="50"/>
   </a>
   
   <!-- Package Managers -->
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303881/GitHub/Package%20Managers/Card_t4scos.png" alt="Npm" width="50" height="50"/>
+  <a href="https://www.npmjs.com" target="_blank">
+    <img src="icons/package-managers/npm.png" alt="Npm" width="50" height="50"/>
   </a>
-  <a href="https://yarnpkg.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303881/GitHub/Package%20Managers/Card-1_sq8g2y.png" alt="Yarn" width="50" height="50"/>
+  <a href="https://yarnpkg.com" target="_blank">
+    <img src="icons/package-managers/yarn.png" alt="Yarn" width="50" height="50"/>
   </a>
   
   <!-- Others -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303881/GitHub/Others/Card_oshreo.png" alt="VSCode" width="50" height="50"/>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img src="icons/others/vscode.png" alt="VS Code" width="50" height="50"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303881/GitHub/Others/Card-1_rahmzd.png" alt="Git" width="50" height="50"/>
+  <a href="https://git-scm.com" target="_blank">
+    <img src="icons/others/git.png" alt="Git" width="50" height="50"/>
   </a>
 </p>
 
@@ -157,52 +160,52 @@ If you do love to learn Three.js, kindly [start here](https://threejs-journey.xy
 
 <p align="left">
   <!-- Programming Langauges -->
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303883/GitHub/Programming%20Langauges/Card-2_cglkos.png" alt="Bootstrap" width="50" height="50"/>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="icons/programming-langauges/bootstrap.png" alt="Bootstrap" width="50" height="50"/>
   </a>
-  <a href="https://material-ui.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303883/GitHub/Programming%20Langauges/Card-5_tg1qjs.png" alt="Material UI" width="50" height="50"/>
+  <a href="https://material-ui.com" target="_blank">
+    <img src="icons/programming-langauges/mui.png" alt="Material UI" width="50" height="50"/>
   </a>
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303883/GitHub/Programming%20Langauges/Card-7_uszect.png" alt="jQuery" width="50" height="50"/>
+  <a href="https://jquery.com" target="_blank">
+    <img src="icons/programming-langauges/jquery.png" alt="jQuery" width="50" height="50"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Ajax_(programming)" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Programming%20Langauges/Card-8_pqkkuk.png" alt="Ajax" width="50" height="50"/>
+    <img src="icons/programming-langauges/ajax.png" alt="Ajax" width="50" height="50"/>
   </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303882/GitHub/Programming%20Langauges/Card-13_ij4ves.png" alt="PHP" width="50" height="50"/>
+  <a href="https://www.php.net" target="_blank">
+    <img src="icons/programming-langauges/php.png" alt="PHP" width="50" height="50"/>
   </a>
   
   <!-- Frameworks and Libraries -->
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card-1_l1pcqq.png" alt="Gatsby" width="50" height="50"/>
+  <a href="https://www.gatsbyjs.com" target="_blank">
+    <img src="icons/frameworks-and-libraries/gatsby.png" alt="Gatsby" width="50" height="50"/>
   </a>
-  <a href="https://ionicframework.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303924/GitHub/Frameworks%20and%20Libraries/Card-7_v3sd5r.png" alt="Ionic" width="50" height="50"/>
+  <a href="https://ionicframework.com" target="_blank">
+    <img src="icons/frameworks-and-libraries/ionic.png" alt="Ionic" width="50" height="50"/>
   </a>
   
   <!-- Service -->
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Service/Card-1_yddjn3.png" alt="Firebase" width="50" height="50"/>
+  <a href="https://firebase.google.com" target="_blank">
+    <img src="icons/services/firebase.png" alt="Firebase" width="50" height="50"/>
   </a>
-  <a href="https://www.netlify.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303884/GitHub/Service/Card-3_rcxcqx.png" alt="Netlify" width="50" height="50"/>
+  <a href="https://www.netlify.com" target="_blank">
+    <img src="icons/services/netlify.png" alt="Netlify" width="50" height="50"/>
   </a>
   
   <!-- CMS -->
-  <a href="https://wordpress.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303880/GitHub/CMS/Card_bwcoco.png" alt="WordPress" width="50" height="50"/>
+  <a href="https://wordpress.com" target="_blank">
+    <img src="icons/cms/wordpress.png" alt="WordPress" width="50" height="50"/>
   </a>
-  <a href="https://www.shopify.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303880/GitHub/CMS/Card-1_grh46l.png" alt="Shopify" width="50" height="50"/>
+  <a href="https://www.shopify.com" target="_blank">
+    <img src="icons/cms/shopify.png" alt="Shopify" width="50" height="50"/>
   </a>
-  <a href="https://www.godaddy.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303880/GitHub/CMS/Card-2_vny5i0.png" alt="GoDaddy" width="50" height="50"/>
+  <a href="https://www.godaddy.com" target="_blank">
+    <img src="icons/cms/godaddy.png" alt="GoDaddy" width="50" height="50"/>
   </a>
   
   <!-- Design Tools -->
-  <a href="https://www.photoshop.com/" target="_blank">
-    <img src="https://res.cloudinary.com/jsxclan/image/upload/v1623303880/GitHub/Design%20Tools/Card-1_fk59ix.png" alt="Photoshop" width="50" height="50"/>
+  <a href="https://www.photoshop.com" target="_blank">
+    <img src="icons/design-tools/photoshop.png" alt="Photoshop" width="50" height="50"/>
   </a>
 </p>
 
