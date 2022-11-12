@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **JavaScript, Web3, Solidity, React, React Native, Expo, GraphQL, Node.js, Express.js, Capacitor.js, Ionic, Tailwind**
 
-- 📫 How to reach me: **[jsxclan.dev@gmail.com](mailto:jsxclan.dev@gmail.com)**, **[Twitter](https://twitter.com/jsx_clan)**, **[Instagram](https://instagram.com/jsx.clan)**, **[Telegram](https://t.me/jsxclan)**
+- 📫 How to reach me: **[me@jsxclan.dev](mailto:me@jsxclan.dev)**, **[Twitter](https://twitter.com/jsx_clan)**, **[Instagram](https://instagram.com/jsx.clan)**, **[Telegram](https://t.me/jsxclan)**
 
 - ⚡ Fun fact: **Talk is cheap. Show me the code.**
 
