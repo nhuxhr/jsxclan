@@ -1,17 +1,17 @@
-name: Generate Snake
+name: 🐍 Generate GitHub contribution grid snake
 
 on:
   # Run automatically every 6 hours
   schedule:
-    - cron: "0 */6 * * *" 
-  
+    - cron: '0 */6 * * *'
+
   # Allows to manually run the job at any time
   workflow_dispatch:
-  
+
   # Run on every push on the master branch
   push:
     branches:
-    - master
+      - master
 
 jobs:
   build:
@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v2
 
       # Generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-      - name: Generate github-contribution-grid-snake.svg
+      - name: ⚒️ Generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -32,7 +32,7 @@ jobs:
 
       # Push the content of <build_dir> to a branch
       # The content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
-      - name: push github-contribution-grid-snake.svg to the output branch
+      - name: 🚀 Push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
           target_branch: output
